@@ -4,7 +4,7 @@ It is my job to check the SQL Server instance in order to find problems or point
 
 One of the things I check is instance security. One of the many tests I perform is to find SQL Logins that have a blank password and I wrote about it years ago in [this post](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=http://sqlschool.gr/blog/how-to-find-sql-logins-with-blank-password-1108.aspx&usg=ALkJrhhCb87c_U0zTxwmPFTRrube5dlY3Q) .
 
-I have added many things in recent years as the requirements continue to grow and one of them is to check if SQL Logins have something in common as a password (as they say in Greek :)).
+I have added many things in recent years as the requirements continue to grow and one of them is to check if SQL Logins have something in common as a password.
 
 On the Internet you will find many such lists that you can use.
 
