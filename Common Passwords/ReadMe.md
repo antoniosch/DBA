@@ -8,7 +8,7 @@ I have added many things in recent years as the requirements continue to grow an
 
 On the Internet you will find many such lists that you can use.
 
-Personally I have made one of the most common ones I have on [github](https://github.com/antoniosch/DBA/tree/master/Common%2520Passwords) and you can freely use it as well if you want to get better.
+Personally I have made one of the most common ones I have on [github](https://github.com/antoniosch/DBA/tree/master/Common%20Passwords) and you can freely use it as well if you want to get better.
 
 How to use this is easy as long as you follow these steps:
 
